@@ -1,0 +1,42 @@
+
+body{
+    background:linear-gradient(to bottom right,white 20%, #507d9d 80%);
+    font-family: 'Montserrat', sans-serif;
+}
+div.container {
+
+    width: 300px;
+    height: 670px;
+    border-radius: 30px;
+    background-color: white;
+
+}
+.circle_track{
+    padding-top: 50px;
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(to top left,  #6991e0, WHITE);
+    
+    border-radius: 50%;
+      }
+
+div.container h1{
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+div.container p 
+{
+    padding-left: 10px;
+    
+    font-size: small;
+    color:gray;
+}
+div.image 
+{
+    
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
